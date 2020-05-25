@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BiometricAuthentication",
+        "repositoryURL": "https://github.com/rushisangani/BiometricAuthentication.git",
+        "state": {
+          "branch": null,
+          "revision": "085569f12692a964ef580d4ec6e04956e879929a",
+          "version": "3.1.2"
+        }
+      },
+      {
+        "package": "KeychainAccess",
+        "repositoryURL": "https://github.com/kishikawakatsumi/KeychainAccess.git",
+        "state": {
+          "branch": null,
+          "revision": "3d0ea2c0806791abcc5d7f0d9f62f1cfd4a7264d",
+          "version": "4.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
